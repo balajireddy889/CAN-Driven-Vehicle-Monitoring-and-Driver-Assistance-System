@@ -388,7 +388,7 @@ The Main Node LCD displays:
 
 <p align="center">
   <img
-    src="https://github.com/Bhargav-33/CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System1/blob/main/Screenshot%202026-09-30%20at%2010.56.06.png"
+    src="https://github.com/balajireddy889/CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System1/blob/main/Screenshot%202026-09-30%20at%2010.56.06.png"
     alt="CAN-Driven Vehicle Monitoring and Driver Assistance System Block Diagram"
     width="1000">
 </p>
@@ -439,7 +439,7 @@ CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System/
 
 <p align="center">
   <img
-    src="https://github.com/Bhargav-33/CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System1/blob/main/25bfb2ad-892f-493f-8203-261bd9e486d6.jpg?raw=true"
+    src="https://github.com/balajireddy889/CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System1/blob/main/25bfb2ad-892f-493f-8203-261bd9e486d6.jpg?raw=true"
     alt="Vehicle Monitoring Dashboard"
     width="600">
 </p>
@@ -450,7 +450,7 @@ CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System/
 
 <p align="center">
   <img
-    src="https://github.com/Bhargav-33/CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System1/blob/main/de71b374-463b-4d11-9cbe-2325f0506073.jpg?raw=true"
+    src="https://github.com/balajireddy889/CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System1/blob/main/de71b374-463b-4d11-9cbe-2325f0506073.jpg?raw=true"
     alt="Complete CAN Vehicle Monitoring System Setup"
     width="1000">
 </p>
@@ -491,7 +491,7 @@ Through this project, the following concepts are covered:
 
 ### 👤 Project By
 
-**BHARGAV BASWANI**
+**Balaji Reddy**
 
 ### 🎓 Education
 
@@ -554,7 +554,7 @@ Through this project, the following concepts are covered:
 
 ## 🚗 CAN-Driven Vehicle Monitoring and Driver Assistance System
 
-**BHARGAV BASWANI**
+**Balaji Reddy**
 
 💻 Embedded C &nbsp; | &nbsp;
 🧠 LPC2129 ARM7 &nbsp; | &nbsp;
