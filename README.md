@@ -439,7 +439,7 @@ CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System/
 
 <p align="center">
   <img
-    src="https://github.com/balajireddy889/CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System1/blob/main/25bfb2ad-892f-493f-8203-261bd9e486d6.jpg?raw=true"
+    src="https://github.com/balajireddy889/CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System/blob/main/BALAJI/25bfb2ad-892f-493f-8203-261bd9e486d6.jpg"
     alt="Vehicle Monitoring Dashboard"
     width="600">
 </p>
