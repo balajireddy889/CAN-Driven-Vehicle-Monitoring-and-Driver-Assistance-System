@@ -450,7 +450,7 @@ CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System/
 
 <p align="center">
   <img
-    src="https://github.com/balajireddy889/CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System1/blob/main/de71b374-463b-4d11-9cbe-2325f0506073.jpg?raw=true"
+    src="https://github.com/balajireddy889/CAN-Driven-Vehicle-Monitoring-and-Driver-Assistance-System/blob/main/BALAJI/de71b374-463b-4d11-9cbe-2325f0506073.jpg"
     alt="Complete CAN Vehicle Monitoring System Setup"
     width="1000">
 </p>
